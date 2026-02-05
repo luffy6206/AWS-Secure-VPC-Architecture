@@ -9,7 +9,7 @@ The setup includes EC2 instances deployed across different subnets, secure SSH a
 and outbound-only internet access for private resources.
 
 ## Architecture Design
-![Architecture Diagram](architecture-diagram.png)
+![Architecture Diagram](architecture-diagram.png.jpeg)
 
 
 
