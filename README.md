@@ -10,7 +10,9 @@ and outbound-only internet access for private resources.
 
 ## Architecture Design
 ![Architecture Diagram](architecture-diagram.png.jpeg)
-![Flow Diagram](architecture-diagram.png.jpeg)
+
+## Architecture and Traffic Flow
+![Flow Diagram](VPC_Architecture_Flow_Diagram.png)
 
 
 
